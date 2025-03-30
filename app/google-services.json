@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119017526308",
+    "project_id": "bnvcompon",
+    "storage_bucket": "bnvcompon.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119017526308:android:b767c73a94733b85e4b4b1",
+        "android_client_info": {
+          "package_name": "com.practice.bnvcomponent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMYEmFFWK9W8M8Eve4NJANM1IysuIJXKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

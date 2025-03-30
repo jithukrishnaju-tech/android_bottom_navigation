@@ -1,24 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
         android:id="@+id/homeFragment"
         android:icon="@drawable/baseline_home_24"
-        android:title="@string/home" />
+        android:title="@string/home"
+        android:enabled="true"/>
 
     <item
         android:id="@+id/dashboardFragment"
         android:icon="@drawable/baseline_favorite_border_24"
-        android:title="@string/order" />
+        android:title="@string/order"
+        android:enabled="true"/>
 
     <item
         android:id="@+id/notificationsFragment"
         android:icon="@drawable/baseline_circle_notifications_24"
-        android:title="@string/notification" />
+        android:title="@string/notification"
+        android:enabled="true"/>
 
     <item
         android:id="@+id/aboutFragment"
         android:icon="@drawable/baseline_app_settings_alt_24"
-        android:title="@string/settings" />
+        android:title="@string/settings"
+        android:enabled="true"/>
 
 </menu>
